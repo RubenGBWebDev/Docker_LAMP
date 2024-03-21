@@ -1,5 +1,5 @@
 # Docker_LAMP
-Docker compose y Dockerfiles para crear un lamp con PHP 8, mysql 8 y phpmyadmin funcionales
+Docker compose y Dockerfile para crear un lamp propio con PHP 8, mysql 8 y phpmyadmin funcionales
 
 Versiones:
 * php:8.0-apache
